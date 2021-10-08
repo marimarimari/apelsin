@@ -1,18 +1,34 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title> test </title>
+  <link rel="stylesheet" href="styletest.css">
+  <script src="/js/myScripttest.js"></script>
+  <meta charset="utf-8">
+  <title>Task Maker</title>
 </head>
-  <title> test </title>
-</head> Ikka ei saa aru </head>
+<body>
+  <h1>List Maker</h1>
+  <form id="form">
+    <label for="taskInput">Enter Task:</label>
+    <input type="text" id="taskInput">
+    <input type="button" id="cmdNewTask" value="New Task">
+  </form>
+  <ul id="taskList">
+    <div class="checkbox">
+   <label>
+      <input type="checkbox" name="packersOff" class="strikethrough" value="1">
+      <span>sssssssss</span>
+   </label>
+</div>
 
-ma ikka vaga loll selles. </p>
+
+
+
+
+
+    <li><input type="checkbox"> get my shit together</li>
+    <li><input type="checkbox"> buy tickets for Christmas</li>
+
+  </ul>
 </body>
-<br>
-<p> aga kutsu pilte oskan ikka siia lykata! </p>
-<br>
-<img src="https://64.media.tumblr.com/eababf1ec20aac2a8f7769efc2e40733/362e124aa981231f-59/s500x750/bf26084867400705ca6414768081d672df17aad5.jpg" alt="dalmatian" width="50%" >
-<img src="https://64.media.tumblr.com/75b676282bb22fc891e11566aff193c6/8949dc14038e9850-25/s500x750/352af14987bd6dcf04a39f4411ec441597ee3534.jpg" alt="mommit" width="50%">
-
-
-
 </html>
